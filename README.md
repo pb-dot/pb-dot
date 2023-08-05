@@ -25,7 +25,7 @@ JavaScript is a versatile language that allows me to bring my ideas to life, and
 
 Through my use of JavaScript, I have developed the ability to create complex applications that are both intuitive and user-friendly. I take great pride in my projects and feel confident in my ability to use this language to create efficient and effective solutions. I'm excited to continue exploring the endless possibilities of this language and further develop my abilities.
  
-  #### <i>These are my two superrr interesting  WEB-DEV projects 👀:</i><br>
+  #### <i>These are my  superrr interesting  WEB-DEV projects 👀:</i><br>
  
 
 > <a href="https://gaming-wizard.netlify.app"> (Click here to view G-zard.) </a>
@@ -45,7 +45,7 @@ Through my use of JavaScript, I have developed the ability to create complex app
  <br>
  As an avid enthusiast of machine learning, I derive immense pleasure from conceptualizing and implementing various projects within this domain. I find great joy in exploring the vast possibilities that machine learning offers and leveraging its potential to develop innovative solutions. With a strong penchant for learning and staying up-to-date with the latest advancements in the field, I am constantly seeking opportunities to deepen my knowledge and enhance my skills. Building projects within the realm of machine learning fuels my passion and allows me to contribute to the ever-evolving landscape of this exciting technology.
  
-   #### <i>These are my two superrr interesting  ML projects 👀:</i><br>
+   #### <i>These are my  superrr interesting  ML projects 👀:</i><br>
  
 
 > <a href="https://med-pb.streamlit.app"> (Click here to view med-pb.) </a>
