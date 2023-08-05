@@ -4,14 +4,9 @@
 # 	Hello<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">,<a href = "https://www.linkedin.com/in/prithijit-banerjee/"> Prithijit</a> here.
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=FFFFFF&background=83838367&center=true&vCenter=true&width=520&height=57&lines=Open-Source+Enthusiast;WeB+DeV+%7C+ML+%7C+Linux+%7C+DevOps;OS+%7C+Computer+Networks" alt="Typing SVG" /></a>
-
  <b>I'm currently pursuing B.Tech in Computer Science from [IIEST Shivpur](https://www.iiests.ac.in/).</b>
  <br>
  <b> 📫 How to reach me - @email@gmail.com </b>
- <br> <br>
- [![](https://visitcount.itsvg.in/api?id=Sohoxic&icon=0&color=0)](https://visitcount.itsvg.in)
- 
 </div>
 <hr>
 <a target="_blank" align="center">
@@ -33,29 +28,13 @@ Through my use of JavaScript, I have developed the ability to create complex app
   #### <i>These are my two superrr interesting  WEB-DEV projects 👀:</i><br>
  
 
-> <br> &nbsp;	&nbsp;&nbsp;	&nbsp;<a href="https://playris.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/utube-cloneee.png" height="40"> </a>
-> 	&nbsp;	&nbsp;&nbsp;	&nbsp;&nbsp;	&nbsp; <a href="https://groover.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/spotify.png" height="40"></a>
-> <br>	(Click on the icons to view.)
+> <a href="https://gaming-wizard.netlify.app"> (Click here to view G-zard.) </a>
+> 	&nbsp;	&nbsp;&nbsp;	&nbsp;&nbsp;	&nbsp; <a href="https://prithijit-portfolio.netlify.app"> (Click here to view portfolio.)</a>
+ 	&nbsp;	&nbsp;&nbsp;	&nbsp;&nbsp;	&nbsp; <a href="https://one-stop-shop.cyclic.app"> (Click here to view OSS.)</a>
+> <br>	
  
 </details>
-<!---  
-#### ▪️ 💻 As a passionate Linux enthusiast, I have undertaken the challenge of building my own Linux distribution from scratch, using the Linux From Scratch (LFS) guide. 🖱. 
 
-<details>
- 
-<summary> ... to know more
- </summary>
- <br>
- As a passionate Linux enthusiast, I have undertaken the challenge of building my own Linux distribution from scratch, using the Linux From Scratch (LFS) guide. This has been a truly fulfilling experience, allowing me to gain a deeper understanding of the Linux operating system and the various components that make it so powerful and versatile.
-
-The LFS guide has provided me with an in-depth understanding of how to construct a Linux distribution from the ground up, and has given me the opportunity to experiment with different tools and configurations to create a system that is uniquely tailored to my needs. I have enjoyed the process of selecting and compiling each individual component, customizing the system to my specific requirements.
-
-The process of building my own Linux distribution has been challenging at times, but it has been an incredibly rewarding experience. Not only have I gained a deeper understanding of the inner workings of Linux, but I have also been able to create a system that is truly my own.
-
-I believe that building my own Linux distribution has given me a unique perspective and skill set that sets me apart as a Linux enthusiast and developer. It has allowed me to gain a deeper appreciation for the intricacies of the Linux operating system and has equipped me with a greater understanding of how to optimize and customize Linux distributions for specific use cases.
- 
- </details>
--->
 
 #### ▪️ 💻 I am an ardent devotee of machine learning who thoroughly enjoys creating projects within this field 🖱. 
 
@@ -66,6 +45,12 @@ I believe that building my own Linux distribution has given me a unique perspect
  <br>
  As an avid enthusiast of machine learning, I derive immense pleasure from conceptualizing and implementing various projects within this domain. I find great joy in exploring the vast possibilities that machine learning offers and leveraging its potential to develop innovative solutions. With a strong penchant for learning and staying up-to-date with the latest advancements in the field, I am constantly seeking opportunities to deepen my knowledge and enhance my skills. Building projects within the realm of machine learning fuels my passion and allows me to contribute to the ever-evolving landscape of this exciting technology.
  
+   #### <i>These are my two superrr interesting  ML projects 👀:</i><br>
+ 
+
+> <a href="https://med-pb.streamlit.app"> (Click here to view med-pb.) </a>
+> 	&nbsp;	&nbsp;&nbsp;	&nbsp;&nbsp;	&nbsp; <a href="https://pb-chatbot.streamlit.app"> (Click here to web query.)</a>
+
  </details>
 
 #### ▪️  📈 I have always been a passionate advocate for emerging technologies and take great pleasure in learning new tech stacks.  
@@ -84,12 +69,10 @@ I believe that embracing new technologies allows me to unlock new and exciting p
  
 ## 🤝 Connect with me
 
-Shoot me an email <a href = "mailto:sarkarsoham73@gmail.com">here 📩</a> for official discussions. <br>
+Shoot me an email <a href = "mailto:prithijitbanerjee11.10.2002@gmail.com">here 📩</a> for official discussions. <br>
 <p align = "justify">
- <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Linkedin.png" height = 40 width = 40/></a>
- <a href = "https://www.instagram.com/sohoxic/"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Instagram.png" height = 40 width = 40/></a>
- <a href = "https://discord.com/channels/1028756276102058044/1028759042509787186"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Discord.png" height = 40 width = 40/></a>
- <a href = "https://twitter.com/Sohoxic_"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Twitter.png" height = 40 width = 40/></a>
+ <a href = "https://www.linkedin.com/in/prithjit-banerjee/"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Linkedin.png" height = 40 width = 40/></a>
+ <a href = "https://www.instagram.com/huddson_hornnet/"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Instagram.png" height = 40 width = 40/></a>
 </p>
 
 
@@ -114,29 +97,12 @@ Shoot me an email <a href = "mailto:sarkarsoham73@gmail.com">here 📩</a> for o
  <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Arduino.png" alt="arduino" height = 37, width = 37/>
  <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Git.png" alt="git" height = 37, width = 37/>
  <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Github.png" alt="github" height = 37, width = 37/>
- 
- <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Linux.png" alt="linux" height = 37, width = 37/>
- <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/netlify.svg" alt="reactjs" height = 37, width = 37/>
-<img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/postman.webp" alt="reactjs" height = 37, width = 37/>
+
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/netlify.svg" alt="netlify" height = 37, width = 37/>
+<img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/postman.webp" alt="postman" height = 37, width = 37/>
 
 
-# 📊GitHub Stats :
-<p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohoxic&theme=nord" alt="Sohoxic" /></p>
-<p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Sohoxic&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
-<div align="center">
-<p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohoxic&langs_count=6&layout=compact&theme=nord" /></p>
-<div>
-<!-- contribution graph -->
-  <div>
-  <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sohoxic&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph">
-  </a>
-  </div>
-  
- 
-  
-<!--   ![sohoxic's snake gif](https://github.com/Sohoxic/Sohoxic/blob/main/assets/snake.svg) -->
-<hr>
+
 
 
 
