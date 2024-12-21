@@ -1,10 +1,10 @@
 
  <div align="center">
  
-# 	Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">,<a href = "https://www.linkedin.com/in/prithijit-banerjee/"> Prithijit (>.<) </a> here.
+# 	Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">,<a href = "https://www.linkedin.com/in/prithijit-banerjee/"> Prithijit (>.<) </a>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> here.
 
 
- <b>I did my B.Tech in Computer Science from an Institute Of National Importance [IIEST Shibpur](https://www.iiests.ac.in/).</b>
+ <b>I did my B.Tech (under-graduate) in Computer Science from an Institute Of National Importance @ India [IIEST Shibpur](https://www.iiests.ac.in/).</b>
  <br>
  <b> 📫 How to reach me - prithijitbanerjee11.10.2002@gmail.com </b>
 </div>
@@ -13,7 +13,9 @@
   <img align="right" top="500" height="300" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-#### ▪️ 💻 SpearHeaded Some Trivial(>.<) System's Projects Likeee ...<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+
+#### ▪️ 💻 SpearHeaded Some Trivial(>.<) System's Projects Likeee ... 
 
  <details>
  
@@ -39,8 +41,9 @@
 > 	&nbsp;	&nbsp;&nbsp;	&nbsp;&nbsp;	&nbsp; <a href="https://github.com/pb-dot/Socket_Programming"> (Click here to view Socket Prgramming Projects.)</a>
  </details>
 
+<br>
 
-#### ▪️📈 Also dipped my toes in the field of Data Science 🖱. 
+#### ▪️ 📈 Also dipped my toes in the field of Data Science :) 
 
 <details>
  
@@ -57,8 +60,9 @@
 
  </details>
 
+<br>
 
-#### ▪️ 💻 Thought Why leave JS alone? Made some Web apps(^-^)
+#### ▪️ 🖱 Thought Why leave JS alone? Made some Web apps(^-^)
 <details>
   
 <summary> ... to know more
@@ -78,7 +82,7 @@
 </details>
 
 
-
+<br>
  
 ## 🤝 Connect with me
 <p align = "justify">
