@@ -23,11 +23,12 @@
  </summary>
  <br>
 
- <ol>
-  <li>Linux based Packet Sniffer</li>
+ <ol>  
   <li>Highly Available Distributed File Transfer System</li>
+  <li>Intel 8085A Emulator with Dark Theme Retro Style UI</li>
+  <li>Linux based Packet Sniffer</li>
   <li>Standard TFTP Server Client</li>
-  <li>custom cli based file transfer protocol app</li>
+  <li>custom cli based file transfer app</li>
   <li>trivial shell</li>
   <li>one-to-one chatting app</li>
   <li>Arpping command clone</li>
