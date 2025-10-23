@@ -5,8 +5,7 @@
 
 
  <b>I did my B.Tech (under-graduate) in Computer Science from an Institute Of National Importance @ India [IIEST Shibpur](https://www.iiests.ac.in/).</b>
- <br>
- <b> 📫 How to reach me - prithijitbanerjee11.10.2002@gmail.com </b>
+
 </div>
 <hr>
 <a target="_blank" align="center">
@@ -88,7 +87,6 @@
 ## 🤝 Connect with me
 <p align = "justify">
  <a href = "https://www.linkedin.com/in/prithjit-banerjee/"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Linkedin.png" height = 40 width = 40/></a>
- <a href = "https://www.instagram.com/huddson_hornnet/"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Instagram.png" height = 40 width = 40/></a>
 </p>
 
 
